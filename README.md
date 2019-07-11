@@ -1,4 +1,4 @@
-# Computer-Inventory-BAckend
+# Computer-Inventory-Backend
 Backend using Node JS and mongoDB for the computer inventory android application.
 Technologies Used:
   a.	Node JS v10.5.3
